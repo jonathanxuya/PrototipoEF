@@ -1,0 +1,6 @@
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\bin\Debug\Capa_ModeloContabilidad.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\bin\Debug\Capa_ModeloContabilidad.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\obj\Debug\Capa_ModeloContabilidad.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\obj\Debug\Capa_ModeloContabilidad.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\obj\Debug\Capa_ModeloContabilidad.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Modulos\Contabilidad\Capa_ModeloContabilidad\obj\Debug\Capa_ModeloContabilidad.pdb

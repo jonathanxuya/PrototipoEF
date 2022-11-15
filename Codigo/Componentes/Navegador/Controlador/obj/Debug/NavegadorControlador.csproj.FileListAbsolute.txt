@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.pdb

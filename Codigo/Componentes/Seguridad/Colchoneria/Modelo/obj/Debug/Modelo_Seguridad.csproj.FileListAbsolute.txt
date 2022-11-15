@@ -1,0 +1,6 @@
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Nueva carpeta (5)\proyectofinalasis222022\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
